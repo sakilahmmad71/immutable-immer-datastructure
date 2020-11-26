@@ -1,0 +1,3 @@
+draftState is the proxy of currentState.
+
+producer (currentState, produce : draftState => void) : nextState
